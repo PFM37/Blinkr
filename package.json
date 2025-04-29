@@ -1,0 +1,15 @@
+{
+  "name": "blinkr",
+  "version": "1.0.0",
+  "description": "Blinkr, the Chromium independent browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webview": "^1.1.0"
+  }
+}
