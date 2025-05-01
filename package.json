@@ -4,11 +4,24 @@
   "description": "Blinkr, the Chromium independent browser",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "node",
+    "npm",
+    "browser",
+    "blinkr",
+    "blink",
+    "browse",
+    "Web",
+    "js",
+    "html",
+    "css",
+    "pfmjs",
+    "pfmcodes"
+  ],
+  "author": "PFMCODES",
+  "license": "MIT",
   "dependencies": {
     "webview": "^1.1.0"
   }
